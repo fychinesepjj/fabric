@@ -1,0 +1,16 @@
+.project
+*.usr.cfg
+*.pyc
+.idea
+*.settings
+*.pyo
+*.egg-info
+*.tmp
+.svn
+.coverage*
+*.pth
+*.log
+*.bak
+.pydevproject
+*.tar.gz
+/repository/db/mongo/Test.py
